@@ -16,3 +16,10 @@ To view the weather condition of another location simply overwrite the city name
 
 # Credits
 This website was built using OpenWeather API to fetch weather data.
+
+# Team members
+This project has been collectively done by :
+1. Anik Mitra
+2. Abdul Kalam
+3. Kandarpa Saha
+4. Prangshu Das

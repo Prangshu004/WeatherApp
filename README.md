@@ -19,7 +19,7 @@ This website was built using OpenWeather API to fetch weather data.
 
 # Team members
 This project has been collectively done by :
-1. Anik Mitra
+1. Prangshu Das
 2. Abdul Kalam
 3. Kandarpa Saha
-4. Prangshu Das
+4. Anik Mitra
